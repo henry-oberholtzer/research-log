@@ -7,4 +7,8 @@ Just logging what I'm researching and working on for Epicodus
 
 9am - [Solved a problem from fCC's coding interview prep](https://github.com/henry-oberholtzer/algorithm-practice)
 
-9:30-11am - Spent some time trying to figure out some tkinter stuff with python solo, but now I'm gonna do [this tutorial](https://realpython.com/python-gui-tkinter/)
+9:30-11:30am - Spent some time trying to figure out some tkinter stuff with python solo, but now I'm gonna do [this tutorial](https://realpython.com/python-gui-tkinter/)
+
+11:30am to noon - Whiteboardings
+
+1:00pm to 3:00pm - following the flask tutorial
