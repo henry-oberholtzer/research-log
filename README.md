@@ -11,4 +11,10 @@ Just logging what I'm researching and working on for Epicodus
 
 11:30am to noon - Whiteboardings
 
-1:00pm to 3:00pm - following the flask tutorial
+1:00pm to 4:00pm - following [the flask tutorial](https://flask.palletsprojects.com/en/3.0.x/tutorial/)
+
+4:00pm to 5:00pm - research on C, got a bit distracted here and followed a totally different tutorial.
+
+## 3-12-24
+
+8:30am - [Solved a problem from fCC's coding interview prep](https://github.com/henry-oberholtzer/algorithm-practice)
