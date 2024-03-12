@@ -18,3 +18,5 @@ Just logging what I'm researching and working on for Epicodus
 ## 3-12-24
 
 8:30am - [Solved a problem from fCC's coding interview prep](https://github.com/henry-oberholtzer/algorithm-practice)
+
+8:50am - [Reading about python packaging](https://packaging.python.org/en/latest/flow/)
