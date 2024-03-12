@@ -22,3 +22,5 @@ Just logging what I'm researching and working on for Epicodus
 9:00am - [Reading about python packaging](https://packaging.python.org/en/latest/flow/)
 
 10:00am - 12:00pm - Follow along with [CLI Interface Project](https://realpython.com/python-typer-cli/#step-1-set-up-the-to-do-project) while adapting to my own app idea
+
+1:00pm - 5:00pm - Going so deep on the movie.py documentation for my "videosound" app but I've got it rendering now :)
