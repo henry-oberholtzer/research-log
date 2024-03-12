@@ -19,4 +19,6 @@ Just logging what I'm researching and working on for Epicodus
 
 8:30am - [Solved a problem from fCC's coding interview prep](https://github.com/henry-oberholtzer/algorithm-practice)
 
-8:50am - [Reading about python packaging](https://packaging.python.org/en/latest/flow/)
+9:00am - [Reading about python packaging](https://packaging.python.org/en/latest/flow/)
+
+10:00am - 12:00pm - Follow along with [CLI Interface Project](https://realpython.com/python-typer-cli/#step-1-set-up-the-to-do-project) while adapting to my own app idea
