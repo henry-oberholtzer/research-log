@@ -30,3 +30,5 @@ Just logging what I'm researching and working on for Epicodus
 9:00am - Scrum
 9:15am - 9:40am - Capstone Signup
 9:40am - Commands for videosound app
+
+10:00am - 12:00pm - Tutorial on Typer for CLI apps
