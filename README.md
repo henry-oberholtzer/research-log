@@ -32,3 +32,7 @@ Just logging what I'm researching and working on for Epicodus
 9:40am - Commands for videosound app
 
 10:00am - 12:00pm - Tutorial on Typer for CLI apps
+
+## 3-18-24
+
+9:00am - Angular Documentation Reading
