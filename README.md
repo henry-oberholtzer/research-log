@@ -40,3 +40,7 @@ Just logging what I'm researching and working on for Epicodus
 10:00am - Angular seemed like a lot, so I went and did some reading on Rust and some of their practice. Sort of spent monday getting distracted again.
 
 1:00pm - 5:00pm - Wrote a bunchh of tests for mp3-to-mp4! 91% coverage!
+
+## 3-19-24
+
+9:00am - 9:30am - Solved a rosetta code problem and started on a second.
