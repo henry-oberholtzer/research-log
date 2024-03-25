@@ -3,7 +3,9 @@ Just logging what I'm researching and working on for Epicodus
 
 ## 3-25-24
 
-9:00am - Algorithm Practice
+9:00am - Algorithm Practice - tried to solve the 24game on rosetta code - HARD!
+
+9:47am - Resuming Django Tutorial
 
 ## 3-11-24
 
