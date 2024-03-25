@@ -13,6 +13,8 @@ Just logging what I'm researching and working on for Epicodus
 
 1:30pm - Finish initial django tutorial, beginning advanced tutorial.
 
+1:45pm - Finished Django packaging tutorial.
+
 ## 3-11-24
 
 8am - Starting research on "videosound" to create an application to convert mp3s and images to mp4
