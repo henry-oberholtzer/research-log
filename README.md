@@ -7,6 +7,8 @@ Just logging what I'm researching and working on for Epicodus
 
 9:47am - Resuming Django Tutorial
 
+12:00pm - Breaking for lunch, at part 8 in Django tutorial. I think I will use this for my capstone
+
 ## 3-11-24
 
 8am - Starting research on "videosound" to create an application to convert mp3s and images to mp4
