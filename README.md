@@ -1,6 +1,11 @@
 # research-log
 Just logging what I'm researching and working on for Epicodus
 
+## 4-1-24
+
+9:30am-10:30am - Whiteboarding Practice
+
+
 ## 3-25-24
 
 9:00am - Algorithm Practice - tried to solve the 24game on rosetta code - HARD!
