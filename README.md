@@ -5,6 +5,7 @@ Just logging what I'm researching and working on for Epicodus
 
 9:30am-10:30am - Whiteboarding Practice
 10:30am-11:00am - Todo list for Minesweeper rebuild
+11:00am-12:00pm - Research into Tone.js, which is kind of getting discouraging if I'm honest
 
 ## 3-25-24
 
